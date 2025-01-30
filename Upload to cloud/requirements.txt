@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-cloud-storage
+motor
+asyncpg
+slowapi
+python-multipart
+python-dotenv
+locust
